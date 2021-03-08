@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizBee</string>
+    <string name="your_score">Your Score</string>
+    <string name="title_home">title</string>
+    <string name="ajinkya_narkhede">Ajinkya Narkhede</string>
+    <string name="Exam_results">Result</string>
+    <string name="false1">false</string>
+    <string name="pie_chart">pie_chart</string>
+</resources>
